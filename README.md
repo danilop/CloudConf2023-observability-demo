@@ -1,5 +1,5 @@
-# reInvent2022-BOA310
-Code used at re:Invent 2022 for session BOA310 "Building observable applications with OpenTelemetry"
+# From complexity to observability using OpenTelemetry
+Code used in my CloudConf 2023 keynote – From complexity to observability using OpenTelemetry
 
 ## Role
 
